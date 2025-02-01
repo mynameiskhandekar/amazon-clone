@@ -4,3 +4,8 @@
     font-family: Arial;
     border: border-box;
 }
+.navbar {
+    height: 60px;
+    background-color: #0F1111;
+    color: white;
+}
