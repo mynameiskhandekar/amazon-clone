@@ -8,6 +8,8 @@
     height: 60px;
     background-color: #0F1111;
     color: white;
+    display: flex;
+    align-items: center;
 }
 
 .nav-logo {
@@ -22,6 +24,19 @@
     width: 100%;
 }
 
+.loc-1 {
+    color: #ccc;
+    font-size: 0.85rem;
+    margin-left: 15px;
+}
+.loc-2 {
+    font-size: 1rem;
+    margin-left: 4px;
+}
+.loc-icon {
+    display: flex;
+    align-items: center;
+}
 .border {
     border: 1.5px solid transparent;
 }
