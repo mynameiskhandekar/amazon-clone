@@ -43,3 +43,11 @@
 .border:hover {
     border: 1.5px solid white;
 }
+
+.nav-search {
+    display: flex;
+    background-color: wheat;
+    width: 650px;
+    height: 40px;
+    border-radius: 4px;
+}
