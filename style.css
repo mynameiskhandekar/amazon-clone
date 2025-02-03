@@ -95,3 +95,29 @@ span {
     font-size: 0.85rem;
     font-weight: 700;
 }
+.nav-main {
+    background-color: #172d2d;
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 40px;
+}
+.nav-shop {
+    display: flex;
+}
+.nav-hamburger {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 8px;
+    font-size: 14px;
+    font-weight: 700;
+    border: none;
+}
+.xshop {
+    padding: 8px 9px;
+    /* margin: 5px 0; */
+    font-size: 14px;
+    border: none;
+}
