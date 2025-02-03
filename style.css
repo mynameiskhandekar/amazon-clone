@@ -144,3 +144,17 @@ span {
 .hero-msg a {
     color: #007185;
 }
+
+.shop-section {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #c1d5d1;
+
+}
+.box {
+    border: 2px solid black;
+    height: 400px;
+    width: 23%;
+    background-color: white;
+
+}
